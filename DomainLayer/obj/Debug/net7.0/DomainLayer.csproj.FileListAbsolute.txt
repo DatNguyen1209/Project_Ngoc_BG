@@ -1,0 +1,14 @@
+E:\BTL_N\DomainLayer\bin\Debug\net7.0\DomainLayer.deps.json
+E:\BTL_N\DomainLayer\bin\Debug\net7.0\DomainLayer.runtimeconfig.json
+E:\BTL_N\DomainLayer\bin\Debug\net7.0\DomainLayer.dll
+E:\BTL_N\DomainLayer\bin\Debug\net7.0\DomainLayer.pdb
+E:\BTL_N\DomainLayer\obj\Debug\net7.0\DomainLayer.csproj.AssemblyReference.cache
+E:\BTL_N\DomainLayer\obj\Debug\net7.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\BTL_N\DomainLayer\obj\Debug\net7.0\DomainLayer.AssemblyInfoInputs.cache
+E:\BTL_N\DomainLayer\obj\Debug\net7.0\DomainLayer.AssemblyInfo.cs
+E:\BTL_N\DomainLayer\obj\Debug\net7.0\DomainLayer.csproj.CoreCompileInputs.cache
+E:\BTL_N\DomainLayer\obj\Debug\net7.0\DomainLayer.dll
+E:\BTL_N\DomainLayer\obj\Debug\net7.0\refint\DomainLayer.dll
+E:\BTL_N\DomainLayer\obj\Debug\net7.0\DomainLayer.pdb
+E:\BTL_N\DomainLayer\obj\Debug\net7.0\DomainLayer.genruntimeconfig.cache
+E:\BTL_N\DomainLayer\obj\Debug\net7.0\ref\DomainLayer.dll

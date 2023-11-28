@@ -1,0 +1,17 @@
+E:\BTL_N\RepositoryLayer\bin\Debug\net7.0\RepositoryLayer.deps.json
+E:\BTL_N\RepositoryLayer\bin\Debug\net7.0\RepositoryLayer.runtimeconfig.json
+E:\BTL_N\RepositoryLayer\bin\Debug\net7.0\RepositoryLayer.dll
+E:\BTL_N\RepositoryLayer\bin\Debug\net7.0\RepositoryLayer.pdb
+E:\BTL_N\RepositoryLayer\bin\Debug\net7.0\DomainLayer.dll
+E:\BTL_N\RepositoryLayer\bin\Debug\net7.0\DomainLayer.pdb
+E:\BTL_N\RepositoryLayer\obj\Debug\net7.0\RepositoryLayer.csproj.AssemblyReference.cache
+E:\BTL_N\RepositoryLayer\obj\Debug\net7.0\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\BTL_N\RepositoryLayer\obj\Debug\net7.0\RepositoryLayer.AssemblyInfoInputs.cache
+E:\BTL_N\RepositoryLayer\obj\Debug\net7.0\RepositoryLayer.AssemblyInfo.cs
+E:\BTL_N\RepositoryLayer\obj\Debug\net7.0\RepositoryLayer.csproj.CoreCompileInputs.cache
+E:\BTL_N\RepositoryLayer\obj\Debug\net7.0\RepositoryLayer.csproj.CopyComplete
+E:\BTL_N\RepositoryLayer\obj\Debug\net7.0\RepositoryLayer.dll
+E:\BTL_N\RepositoryLayer\obj\Debug\net7.0\refint\RepositoryLayer.dll
+E:\BTL_N\RepositoryLayer\obj\Debug\net7.0\RepositoryLayer.pdb
+E:\BTL_N\RepositoryLayer\obj\Debug\net7.0\RepositoryLayer.genruntimeconfig.cache
+E:\BTL_N\RepositoryLayer\obj\Debug\net7.0\ref\RepositoryLayer.dll
